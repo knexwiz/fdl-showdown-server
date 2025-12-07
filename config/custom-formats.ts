@@ -4,7 +4,7 @@ export const Formats: FormatList = [
         	section: "FDL Custom",
     	},
     	{
-        	name: "[Gen 9] Modern: Gen V Doubles",
+        	name: "[Gen 9] Modern: Gen V Two v Two",
         	mod: 'gen9fdl5',
         	gameType: 'doubles',
         	bestOfDefault: true,
