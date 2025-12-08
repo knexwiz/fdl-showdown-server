@@ -21,9 +21,9 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 
 	// FDL Formats
 	///////////////////////////////////////////////////////////////////
-		{
-        	section: "FDL Custom",
-    	},
+	{
+		section: "FDL Custom",
+	},
 
 
 	// S/V Singles
@@ -31,6 +31,13 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 
 	{
 		section: "S/V Singles",
+	},
+	{
+		name: "[Gen 9] Again test12345",
+		mod: 'gen9legendsou',
+		bestOfDefault: true,
+		ruleset: [ 'Terastal Clause'],
+		unbanlist: ['Mythical'],
 	},
 	{
 		name: "[Gen 9] Random Battle",
