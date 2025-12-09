@@ -26,7 +26,7 @@ export const Formats: FormatList = [
 			mod: 'gen9legendsou',
         	gameType: 'doubles',
 			bestOfDefault: true,
-			ruleset: ['Flat Rules', '!!Obtainable', 'Adjust Level = 50', 'Terastal Clause'],
+			ruleset: ['Flat Rules', '- Obtainable', 'Adjust Level = 50', 'Terastal Clause'],
 			banlist: ['Hidden Power', 'V-Create'],
 			unbanlist: ['Victini'],
 		},
