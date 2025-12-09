@@ -22,9 +22,9 @@ export const Formats: FormatList = [
     	},
 		*/
 		{
-			name: "[Gen 9] fdl testering",
+			name: "[Gen 9] fdl legends",
 			mod: 'gen9legendsou',
-        	// gameType: 'doubles',
+        	gameType: 'doubles',
 			bestOfDefault: true,
 			ruleset: [ 'Adjust Level = 50', 'Terastal Clause'],
 			banlist: ['Hidden Power', 'V-Create'],
