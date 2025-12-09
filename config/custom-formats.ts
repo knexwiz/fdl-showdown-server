@@ -26,7 +26,7 @@ export const Formats: FormatList = [
 			mod: 'gen9legendsou',
         	gameType: 'doubles',
 			bestOfDefault: true,
-			ruleset: ['Adjust Level = 50', 'Terastal Clause'],
+			ruleset: ['Adjust Level = 50', 'Terastal Clause', 'Team Preview', 'Species Clause', 'Nickname Clause', 'Item Clause = 1', 'Picked Team Size = 4', 'Cancel Mod'],
 			banlist: ['Hidden Power', 'V-Create'],
 			unbanlist: ['Victini'],
 		},
